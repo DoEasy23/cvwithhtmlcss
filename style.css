@@ -1,0 +1,145 @@
+body {
+    color: #40513E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    text-line-through-style: italic;
+    background-color: #E4F9F5;
+}
+
+hr {
+    color: gray;
+    border: dotted 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 5rem auto;
+
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 562%;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+
+}
+
+.top-con {
+
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+
+}
+
+.footer-link {
+    color: #11999E;
+
+    margin: 0 20px 20px 10px;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+}
+
+.com-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.mob-img {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
+
+.middle-container {
+    margin: 5rem 0;
+}
+
+.task-img {
+    width: 25%;
+
+
+}
+
+.oguz-img {
+    height: 20rem;
+}
+
+.hobbies {
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 2.5rem 0 1.2rem;
+
+}
+
+.copyriht {
+    color: #EAF6F6;
+}
+
+.contact-me {
+    width: 40%;
+    margin: 2rem auto 3rem;
+}
+
+.btn {
+    background-color: #11999E;
+    border-radius: 14px;
+    font-size: 28px;
+    text-align: center;
+    border: none;
+    color: #E4F9F5;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.info{
+    width: 50%;
+    margin: auto;
+}
+a:hover{
+    color: #EAF6F6;
+}
